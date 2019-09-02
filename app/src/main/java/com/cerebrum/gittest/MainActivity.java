@@ -37,4 +37,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    private void findAverage(){
+        // To find average;
+    }
+
+
 }
