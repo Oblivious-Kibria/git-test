@@ -21,4 +21,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    private void findMin(){
+          // Find minimum value;
+    }
+
+
+
 }
